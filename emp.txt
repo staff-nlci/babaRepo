@@ -1,0 +1,3 @@
+Id= 2
+Name= kavita
+Salary= 2000.00
